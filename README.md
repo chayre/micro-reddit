@@ -1,5 +1,5 @@
 # Micro-Reddit
-This repo contains the data models for how Reddit's User/Post/Comment system works. No front-end is currently implemented. 
+This repo contains the data models for how Reddit's User/Post/Comment system works. My purpose in making this was to gain more experience with the MVC software design pattern. No front-end is currently implemented. 
 The Reddit posting system works as follows:
 > A User has_many Posts & has_many Comments
 
